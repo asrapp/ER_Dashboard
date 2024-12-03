@@ -1,7 +1,6 @@
 # Emergency Romm Tableau Dashboard
 [ER Tableau Dashboard](https://public.tableau.com/views/ERdashboard_17331082389080/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Emergency Room Visits Dashboard
 
 ## Overview
 This project showcases my skills as a Business Intelligence (BI) Analyst, focusing on transforming healthcare data into actionable insights. The dashboard provides an in-depth analysis of emergency room (ER) visits, highlighting trends, demographics, and operational metrics. This project aligns with the responsibilities of a BI Analyst, including data visualization, statistical analysis, and delivering data-driven recommendations.
