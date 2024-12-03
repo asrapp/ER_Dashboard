@@ -1,4 +1,4 @@
-# ER_Dashboard
+# Emergency Romm Tableau Dashboard
 [ER Tableau Dashboard](https://public.tableau.com/views/ERdashboard_17331082389080/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Emergency Room Visits Dashboard
