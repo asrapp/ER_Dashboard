@@ -51,5 +51,9 @@ This project showcases my skills as a Business Intelligence (BI) Analyst, focusi
 2. **Improve Patient Satisfaction**: Address qualitative concerns by training staff in patient communication and empathy.
 3. **Referral Analysis**: Redirect non-urgent cases to appropriate care channels and strengthen collaboration with high-referral departments.
 
+## Data Set
+[Dataset](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv)
+
+
 
 
