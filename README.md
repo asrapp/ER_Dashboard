@@ -58,7 +58,6 @@ Key Features:
 
 - Patient Demographics: Age, gender, etc.
 - Visit Information: Date of visit, time, and reason for visit.
-- Diagnoses: Details on the diagnosis and medical condition.
-- Outcomes: Discharge status, follow-up recommendations, etc.
+
 
 
